@@ -12,7 +12,7 @@ jobs:
       - name: npm install
         uses: Jaid/action-npm-install@v1.2.4
       - name: publish
-        uses: xRealNeon/VuePagesAction@1.0.0
+        uses: ashkantaravati/VuePagesAction@1.0.0
         with:
           username: ashkantaravati
           reponame: ashkantaravati.github.io
